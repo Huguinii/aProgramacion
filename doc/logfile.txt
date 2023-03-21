@@ -1,0 +1,65 @@
+Project documentation
+<---- javadoc command: ---->
+C:\Program Files\BlueJ\jdk\bin\javadoc.exe
+-sourcepath
+C:\Users\hmarinb01\ejer1
+-source
+11
+-classpath
+C:\Program Files\BlueJ\lib\bluejcore.jar;C:\Program Files\BlueJ\lib\junit-jupiter-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-api-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-migrationsupport-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-jupiter-params-5.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-commons-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-console-standalone-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-engine-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-launcher-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-reporting-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-runner-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-suite-api-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-platform-testkit-1.5.2.jar;C:\Program Files\BlueJ\lib\junit-quickcheck-core-0.9.jar;C:\Program Files\BlueJ\lib\junit-vintage-engine-5.5.2.jar;C:\Program Files\BlueJ\lib\hamcrest-core-1.3.jar;C:\Program Files\BlueJ\lib\hamcrest-library-1.3.jar;C:\Program Files\BlueJ\lib\lang-stride.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.base.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.controls.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.fxml.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.graphics.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.media.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.properties.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.swing.jar;C:\Program Files\BlueJ\lib\javafx\lib\javafx.web.jar;C:\Users\hmarinb01\ejer1
+-d
+C:\Users\hmarinb01\ejer1\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+-doctitle
+ejer1
+-windowtitle
+ejer1
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-link
+https://docs.oracle.com/en/java/javase/11/docs/api/
+Condicionales
+Condicionales.Tarea3
+Ns
+Ejercicios
+SegundaEvaluacion
+Examen
+Carrera
+PrimerTrimestre
+Clases
+C:\Users\hmarinb01\ejer1/HolaMundoWhile.java
+C:\Users\hmarinb01\ejer1/MenuDoWhile.java
+C:\Users\hmarinb01\ejer1/CaracteresDeUnaPalabra.java
+C:\Users\hmarinb01\ejer1/Cuadrado.java
+C:\Users\hmarinb01\ejer1/CondicionalTerciario.java
+C:\Users\hmarinb01\ejer1/TablasDeMultiplicar.java
+C:\Users\hmarinb01\ejer1/Formateado.java
+C:\Users\hmarinb01\ejer1/Horario.java
+<---- end of javadoc command ---->
+Loading source file C:\Users\hmarinb01\ejer1\HolaMundoWhile.java...
+Loading source file C:\Users\hmarinb01\ejer1\MenuDoWhile.java...
+Loading source file C:\Users\hmarinb01\ejer1\CaracteresDeUnaPalabra.java...
+Loading source file C:\Users\hmarinb01\ejer1\Cuadrado.java...
+Loading source file C:\Users\hmarinb01\ejer1\CondicionalTerciario.java...
+Loading source file C:\Users\hmarinb01\ejer1\TablasDeMultiplicar.java...
+Loading source file C:\Users\hmarinb01\ejer1\Formateado.java...
+Loading source file C:\Users\hmarinb01\ejer1\Horario.java...
+Loading source files for package Condicionales...
+Loading source files for package Condicionales.Tarea3...
+Loading source files for package Ns...
+Loading source files for package Ejercicios...
+Loading source files for package SegundaEvaluacion...
+Loading source files for package Examen...
+Loading source files for package Carrera...
+Loading source files for package PrimerTrimestre...
+Loading source files for package Clases...
+C:\Users\hmarinb01\ejer1\Carrera\Wordle.java:36: error: ';' expected
+            charIntento
+                       ^
+1 error

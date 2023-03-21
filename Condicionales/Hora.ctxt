@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Hora
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Reloj\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=hora\ minutos
+comment1.target=Hora(int,\ int)
+comment2.params=hora
+comment2.target=void\ incrementarHora(int)
+comment3.params=minutos
+comment3.target=void\ incrementarMinuto(int)
+comment4.params=hora
+comment4.target=boolean\ validaHora(int)
+comment5.params=
+comment5.target=void\ mostrar()
+comment6.params=minutos
+comment6.target=boolean\ validaMinuto(int)
+numComments=7

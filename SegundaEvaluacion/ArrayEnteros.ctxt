@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=ArrayEnteros
+comment1.params=tamano
+comment1.target=ArrayEnteros(int)
+comment1.text=\ \r\n\ Constructor\ for\ objects\ of\ class\ ArrayEnteros\ \r\n
+comment2.params=elementoAbuscar
+comment2.target=int\ searchPos(int)
+comment3.params=elementoAbuscar
+comment3.target=boolean\ add(int)
+comment4.params=
+comment4.target=int\ getSize()
+comment5.params=
+comment5.target=double\ media()
+numComments=6

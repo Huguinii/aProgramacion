@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Ejercicio01
+comment0.text=\r\n\ crear\ arraylist\ que\ contenga\ los\ 50\ primeros\ numeros\u00A0\r\n\ metodo\ que\ elimine\ numeros\ que\ empiecen\ por\ 2^^\r\n\u00A0\r\n\ (solucionar\ problemas\ de\ eliminacion\ de\ numeros)\r\n\u00A0\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

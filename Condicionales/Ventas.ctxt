@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Ventas
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Ventas\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n\ \r\n\ Ventas\ de\ martes\ a\ domingo,\ en\ cada\ fila\ se\ introducir\u00E1\ un\ solo\ valor,\ el\ programa\ finaliza\ al\ introducir\ un\ \r\n\ -99,\ no\ se\ sabe\ el\ n\u00FAmero\ de\ semanas\ que\ nos\ van\ a\ introducir,\ pero\ por\ cada\ semana,\ tenemos\ que\ indicar\ que\ \r\n\ d\u00EDa\ ha\ sido\ el\ de\ mayor\ ventas,\ que\ d\u00EDa\ ha\ sido\ el\ de\ menor\ ventas,\ y\ si\ el\ domingo\ ha\ superado\ la\ media\ de\ \r\n\ las\ ventas\ de\ la\ semana,\ en\ caso\ de\ haber\ alg\u00FAn\ empate\ entre\ los\ d\u00EDas\ de\ la\ semana,\ se\ har\u00E1\ constar\ un\ empate.\r\n\ \r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ getData()
+comment3.params=dia
+comment3.target=java.lang.String\ returnDia(int)
+numComments=4

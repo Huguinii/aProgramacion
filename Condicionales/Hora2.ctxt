@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Hora2
+comment1.params=hora\ minutos
+comment1.target=Hora2(int,\ int)
+comment2.params=
+comment2.target=void\ mostrar()
+comment3.params=hora
+comment3.target=void\ incrementarHora(int)
+comment4.params=minutos
+comment4.target=void\ incrementarMinuto(int)
+numComments=5

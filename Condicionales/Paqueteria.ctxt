@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Paqueteria
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=zona\ peso\ precio
+comment2.target=void\ calculaPrecio(java.lang.String,\ float,\ float)
+comment3.params=
+comment3.target=void\ menu()
+comment4.params=aux
+comment4.target=void\ pr(java.lang.String)
+comment5.params=zona\ price
+comment5.target=void\ option(java.lang.String,\ int)
+numComments=6

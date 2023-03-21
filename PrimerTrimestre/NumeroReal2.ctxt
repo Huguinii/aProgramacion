@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=NumeroReal2
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=numero
+comment2.target=boolean\ rango8a20(int)
+comment3.params=numero
+comment3.target=boolean\ esPar(int)
+comment4.params=letra
+comment4.target=boolean\ esMayuscula(char)
+numComments=5
